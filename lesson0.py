@@ -1,5 +1,0 @@
-my_stryng = input('slipknot')
-print(my_stryng.upper())
-print(my_stryng.lower())
-print(my_stryng[0:])
-print(my_stryng[:-1])
